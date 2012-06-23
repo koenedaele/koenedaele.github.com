@@ -3,7 +3,7 @@ layout: post
 category : heritage
 tags : [caasoton, fuzzy, fuzzy time interval, rough time interval]
 ---
-{% include JB/setup %}a
+{% include JB/setup %}
 
 Last week I gave a talk at the [CAA2012 conference](http://caaconference.org/) in Southhampton. I talked about handling imperfect temporal information in data sets or databases. Storing things like "He was born in 1722" alongsides "She was born on the 4th of december 2004" and even "This happened somewhere aorund 1905" in a similar way and still being able to do something with all this information like analyze or query it.
 

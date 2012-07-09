@@ -50,4 +50,4 @@ very much on the social nature of open source software. I think it''s must read
 and I would definately recommend it to anyone thinking of starting an open 
 source project or even anyone just interested in joining one.
 
-[book]: http://producingoss.com/ Producing Open Source Software. How to Run a Successful Free Software Project.
+[book]: http://producingoss.com/ "Producing Open Source Software. How to Run a Successful Free Software Project."

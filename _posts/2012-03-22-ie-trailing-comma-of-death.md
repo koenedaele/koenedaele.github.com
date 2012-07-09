@@ -1,4 +1,5 @@
 ---
+title: The IE trailing comma of death
 layout: post
 category : technology
 tags : [internet explorer, javascript]
